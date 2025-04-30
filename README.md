@@ -5,6 +5,7 @@ This repository contains a collection of boilerplate templates for the tech stac
 ## 📁 Available Templates
 
 - JavaScript + React + Tailwind CSS
+- JavaScript + React + Tailwind CSS + shadcn/ui (component library)
 
 ## 💡 How to Use
 
